@@ -1,2 +1,3 @@
 this is a short message for simulating collaboration efforts by different developers.
 we are going to be working on pulling changes into a local repository now.
+I am assuming nothing is on this line and that no merge conflict will happen.
